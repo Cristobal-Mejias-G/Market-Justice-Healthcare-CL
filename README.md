@@ -1,6 +1,5 @@
 # Market Justice in Health Care: A 30-Year Study in Chile
 
----
 
 ## Tesis de pregrado en Sociología — Universidad de Chile
 
@@ -10,7 +9,6 @@
   <img src="https://img.shields.io/badge/2026-ff7b00?style=for-the-badge" alt="2026"/>
 </p>
 
----
 
 ## Descripción
 
