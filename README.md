@@ -14,7 +14,11 @@
 
 Este repositorio contiene el código, datos procesados y documentos asociados a la tesis *Market Justice in Health Care: A 30-Year Study in Chile*, desarrollada en el marco del proyecto **FONDECYT Regular Nº 1250518: Justicia de Mercado y Merecimiento del Bienestar Social** ([ver página del proyecto](https://jus-mer.com/)), dirigido por el **Dr. Juan Carlos Castillo**.
 
-La investigación analiza la evolución de las preferencias por la justicia de mercado en la atención de salud en Chile entre 1999 y 2019, examinando el rol de la percepción de meritocracia, la percepción de desigualdad y la posición socioeconómica como factores explicativos. Los datos provienen de las olas chilenas del **International Social Survey Programme (ISSP)** de 1999, 2009 y 2019.
+## Abstract
+
+Las creencias sobre justicia distributiva son fundamentales para la legitimidad de los arreglos sociales. En Chile, el sistema de salud se estructuró bajo un modelo de mercado donde el acceso depende de la capacidad de pago individual, generando una desigualdad estructural que ha tensionado la cohesión social. A pesar de su relevancia, existe un vacío en el estudio longitudinal sobre cómo ha evolucionado la aceptación ciudadana de esta mercantilización.
+
+Esta investigación analiza la evolución de la “justicia de mercado” en salud en Chile entre 1999 y 2019, evaluando el impacto de la percepción de privilegio, el criterio de necesidad, la brecha salarial percibida y la posición socioeconómica. Utilizando datos de tres olas del International Social Survey Programme (ISSP) (1999, 2009 y 2019), se emplean modelos de regresión logística para identificar los determinantes del apoyo a la desigualdad sanitaria. El estudio busca determinar si la legitimidad del mercado ha declinado ante una mayor conciencia de las brechas estructurales o si persiste mediante la naturalización de las barreras de acceso.
 
 <p align="left">
   <a href="https://cristobal-mejias-g.github.io/thesis-market-justice-health-cl/expose.html">
